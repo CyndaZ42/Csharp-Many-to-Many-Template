@@ -53,7 +53,7 @@ _This is an MVC application that was built using C#. The purpose of this applica
 
 <pre>{
   "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;Port=3306;database=best_restaurants;uid=root;pwd=[YOUR-PASSWORD-HERE];"
+    "DefaultConnection": "Server=localhost;Port=3306;database=project_name;uid=root;pwd=[YOUR-PASSWORD-HERE];"
   }
 }</pre>
 <small>*note: you must include your password in the code block section labeled "YOUR-PASSWORD-HERE".</small>
