@@ -71,7 +71,6 @@ Run `$ dotnet restore` in the console.<br>
 Run `$ dotnet database update` in the console.<br>
 Run `$ dotnet run` in the console
 </details>
-<br>
 
 <details>
 <summary><strong>For Testing</strong></summary>
