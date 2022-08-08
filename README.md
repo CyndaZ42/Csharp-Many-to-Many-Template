@@ -102,5 +102,5 @@ _Feel free to reach out via [Github](https://github.com/CyndaZ42) to provide fee
 ---
 ### Footnotes
 
-[^1]: note: you must include your password in the code block section labeled `YOUR-PASSWORD-HERE`.
+[^1]: You must include your password in the code block section labeled `YOUR-PASSWORD-HERE`.
 
