@@ -95,4 +95,4 @@ This program was built using *`Microsoft .NET SDK 5.0.401`*, and may not be comp
 
 _Feel free to reach out via [Github](https://github.com/CyndaZ42) to provide feedback on this project or to view my other projects._
 
-[Copyright](/LICENSE) (c) _07-28-2022_ _Zachary Waggoner_
+[Copyright](/LICENSE) (c) 2022 Zachary Waggoner
