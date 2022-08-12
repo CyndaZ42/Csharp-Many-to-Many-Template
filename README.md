@@ -45,10 +45,10 @@ _This is a detailed description of your application. Give as much detail as need
 <details>
 <summary><strong>SQL Workbench Configuration</strong></summary>
 
-1. Create an `appsetting.json` file in the `ProjectName` directory of the project  
+1. Create an <font color="green">`appsettings.json`</font> file in the `ProjectName` directory of the project  
    <pre>ProjectName.Solution
    └── ProjectName
-    └── <strong>appsetting.json</strong></pre>
+    └── <strong><font color="yellow">appsetting.json</font></strong></pre>
 2. Insert the following code [^1]  
     ```json
     {
@@ -58,7 +58,7 @@ _This is a detailed description of your application. Give as much detail as need
     }
     ```
 
-3. Once `appsettings.json` file has been created, navigate back to SQL Workbench.
+3. Once <font color="green">`appsettings.json`</font> file has been created, navigate back to SQL Workbench.
 </details>
 
 <details>
@@ -66,7 +66,7 @@ _This is a detailed description of your application. Give as much detail as need
 
 1. Navigate to:  
    <pre>ProjectName.Solution
-   └── <strong>ProjectName</strong></pre>
+   └── <strong><font color="yellow">ProjectName</font></strong></pre>
 
 2. Run `$ dotnet restore` in the console.  
 3. Run `$ dotnet database update` in the console.  
@@ -79,7 +79,7 @@ _This is a detailed description of your application. Give as much detail as need
 1. Navigate to  
     <pre>ProjectName.Solution
     ├── ProjectName
-    └── <strong>ProjectName.Tests</strong></pre>
+    └── <strong><font color="yellow">ProjectName.Tests</font></strong></pre>
 
 2. Run `$ dotnet test` in the console
 </details><br>
